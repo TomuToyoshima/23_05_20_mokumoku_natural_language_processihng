@@ -1,2 +1,2 @@
-# 23_05_20_mokumoku_natural_language_processihng
+# 23_05_20_mokumoku_natural_language_processing
 DSL主催の主催の「現場で使えるPython自然言語処理」のもくもく会用のリポジトリになります．
