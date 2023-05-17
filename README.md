@@ -1,6 +1,6 @@
 # 23_05_20_mokumoku_natural_language_processing
 DSL主催の主催の「現場で使えるPython自然言語処理」のもくもく会用のリポジトリになります．
-patch-2
+
 
 <h1>概要</h1>
 <h2>日程</h2>
@@ -44,7 +44,7 @@ upstream https://github.com/Data-Science-League/23_04_22_Essence-of-Machine-lear
    </ul>
 
 
-=======
+
 # 概要
 日程
 4/22（土）〜5/9（火） 20:00〜21:00
@@ -83,4 +83,3 @@ git push origin main
 GitHubの設定を行う
 本を進める
 GitHubにpushしてpull requestを出す
-main
