@@ -20,16 +20,16 @@ DSL主催の主催の「現場で使えるPython自然言語処理」のもく�
   </ul>
   
 <ol><h2>【GitHub設定手順】</h2>
-<li>GitHubでDSLの今回のリポジトリを検索（URL：https://github.com/Data-Science-League/23_04_22_Essence-of-Machine-learning.git）</li>
+<li>GitHubでDSLの今回のリポジトリを検索（URL：https://github.com/Data-Science-League/23_05_20_mokumoku_natural_language_processihng#readme）</li>
 <li>画面右上の「fork」からforkする</li>
-<li>クローンする：<code>git clone https://github.com/[GitHubユーザー名]/23_04_22_Essence-of-Machine-learning.git</code></li>
+<li>クローンする：<code>git clone https://github.com/[GitHubユーザー名]/23_05_20_mokumoku_natural_language_processihng</code></li>
 <li>クローンしたフォルダ内に移動：<code>cd [クローンしたフォルダ名]</code></li>
-<li>upstream登録する：<code>git remote add upstream https://github.com/Data-Science-League/23_04_22_Essence-of-Machine-learning.git</code></li>
+<li>upstream登録する：<code>git remote add upstream https://github.com/Data-Science-League/23_05_20_mokumoku_natural_language_processihng</code></li>
 <li><code>git remote -v</code> で確認。以下のようになっていればOK。<br>
-origin https://github.com/[GitHubユーザー名]/23_04_22_Essence-of-Machine-learning.git (fetch)<br>
-origin https://github.com/[GitHubユーザー名]/23_04_22_Essence-of-Machine-learning.git (push)<br><br>
-upstream https://github.com/Data-Science-League/23_04_22_Essence-of-Machine-learning.git (fetch)<br>
-<li>upstream https://github.com/Data-Science-League/23_04_22_Essence-of-Machine-learning.git (push)</li>
+origin https://github.com/[GitHubユーザー名]/23_05_20_mokumoku_natural_language_processihng (fetch)<br>
+origin https://github.com/[GitHubユーザー名]/23_05_20_mokumoku_natural_language_processihng (push)<br><br>
+upstream https://github.com/Data-Science-League/23_05_20_mokumoku_natural_language_processihng (fetch)<br>
+<li>upstream https://github.com/Data-Science-League/23_05_20_mokumoku_natural_language_processihng (push)</li>
 <li>フォルダを作成し、その中に何かファイルを作る</li>
 <li><code>git add .</code></li>
 <li><code>git commit -m '[コミットメッセージ（日付 何ページまで進んだか 名前）]'</code></li>
